@@ -1,5 +1,8 @@
 # js-prototype
 
+[![npm](https://img.shields.io/npm/v/js-prototype.svg)](https://www.npmjs.com/package/js-prototype)
+[![license](https://img.shields.io/github/license/thinkholic/js-prototype.svg)](https://github.com/thinkholic/js-prototype/blob/master/LICENSE)
+
 Modified prototype methods for JS
 
 ## Installation

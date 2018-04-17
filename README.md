@@ -61,9 +61,14 @@ console.log(b.isEmpty()); // false
 ```js
 import 'js-prototype'; // or import 'js-prototype/array';
 
+// By Value
 const arr = [1, 2, 3, 4, 5, 6];
 arr.drop(2);
 console.log(arr); // [1, 3, 4, 5, 6]
+
+// By Index
+arr.drop(null, 0);
+console.log(arr); // [3, 4, 5, 6]
 ```
 
 ## License

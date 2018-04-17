@@ -1,0 +1,17 @@
+{
+  "name": "js-prototype",
+  "version": "0.0.1",
+  "description": "Modified prototype methods for JS",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "thinkholic <mailtokasun@gmail.com> (https://github.com/thinkholic)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkholic/js-prototype.git"
+  },
+  "homepage": "https://github.com/thinkholic/js-prototype#readme",
+  "bugs": {
+    "url": "https://github.com/thinkholic/js-prototype/issues"
+  },
+  "license": "MIT"
+}

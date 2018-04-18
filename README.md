@@ -18,7 +18,7 @@ npm i -S js-prototype
 #### String.allReplace()
 
 ```js
-import 'js-prototype'; // or import 'js-prototype/string';
+require 'js-prototype'; // or require 'js-prototype/string';
 
 var str = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.';
 
@@ -33,7 +33,7 @@ console.log(newStr); // Lorem REPLACED-ipsum dolor sit REPLACED-amet, consectetu
 #### String.toTitleCase()
 
 ```js
-import 'js-prototype'; // or import 'js-prototype/string';
+require 'js-prototype'; // or require 'js-prototype/string';
 
 var str = 'Lorem ipsum dolor';
 var result = str.toTitleCase();
@@ -46,7 +46,7 @@ console.log(result); // Lorem Ipsum Dolor
 #### Object.isEmpty()
 
 ```js
-import 'js-prototype'; // or import 'js-prototype/object';
+require 'js-prototype'; // or require 'js-prototype/object';
 
 const a = {};
 const b = {a: 1, b:3};
@@ -59,7 +59,7 @@ console.log(b.isEmpty()); // false
 #### Array.drop()
 
 ```js
-import 'js-prototype'; // or import 'js-prototype/array';
+require 'js-prototype'; // or require 'js-prototype/array';
 
 // By Value
 const arr = [1, 2, 3, 4, 5, 6];

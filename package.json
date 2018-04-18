@@ -1,6 +1,6 @@
 {
   "name": "js-prototype",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Modified prototype methods for JS",
   "main": "src/",
   "scripts": {
